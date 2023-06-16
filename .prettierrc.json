@@ -1,8 +1,8 @@
 {
-    "tabWidth": 2,
-    "useTabs": true,
-    "semi": false,
-    "singleQuote": true,
-    "trailingComma": "all",
-    "filepath": "./src"
+	"tabWidth": 1,
+	"useTabs": true,
+	"semi": false,
+	"singleQuote": true,
+	"trailingComma": "all",
+	"filepath": "./src"
 }
